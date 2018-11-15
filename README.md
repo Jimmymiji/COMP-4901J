@@ -4,5 +4,5 @@ Also they are very similiar to cs231n assignments :)<br>
 To work locally, 
 install anaconda to build virtual environment
 install the following packages with pip3:<br>
-numpy scipy pillow matplotlib future
+numpy scipy pillow matplotlib future<br>
 to work with tensorflow,  you need to install CUDA, CUDANN, tensorflow 
